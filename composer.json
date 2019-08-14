@@ -1,5 +1,6 @@
 {
   "name": "antonm/hello-world",
+  "version": "1.0.0",
   "description": "My first packagist package",
   "type": "package",
   "require": {
