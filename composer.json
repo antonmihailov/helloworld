@@ -1,0 +1,22 @@
+{
+  "name": "antonm/hello-world",
+  "description": "My first packagist package",
+  "type": "package",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Anton",
+      "email": "anton@amarna.city",
+      "homepage": "https://amarna.city"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "antonm\\HelloWorld\\": "src/"
+    }
+  }
+}
