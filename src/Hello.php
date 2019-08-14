@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace antonm\HelloWorld;
+namespace HelloWorld;
 
 /**
  * Class Hello
